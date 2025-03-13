@@ -14,7 +14,7 @@ line_bot_api = LineBotApi('i8DEpkz7jgRNnqRR4mWbPxC5oesrSpXbw2c+5xpzkLASeiBvdtv1u
 handler = WebhookHandler('e95d4cac941b6109c3379f5cb7a7c46c')
 
 # 🚀 填入你的 Google Places API Key
-GOOGLE_PLACES_API_KEY = os.getenv('AIzaSyA_LHabUDwN3ntZeAq0vR_f5p43S1sXE_k')
+GOOGLE_PLACES_API_KEY = os.getenv('AIzaSyBqbjGjjpt3Bxo9RB15DE4uVBmoBRlNXVM')
 
 # 📍 Google Places API 查詢函數
 def search_restaurants(location):
